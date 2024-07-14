@@ -1,25 +1,25 @@
 int fun1()
 {
 
-  //to do the task form main------from "modify" branch
+  //to do the task form main&&&&&&&&&&&&&&added in first commit master
 
 }
 
 int fun2()
 {
 
+
   
 	
 
 
 	//this is addition....... from "modify" branch
-
 }
 
 int fun3()
 {
 
-  //Adding some extral lines
+  //Adding some
 
 }
 
