@@ -1,7 +1,7 @@
 int fun1()
 {
 
-  //to do the task form main&&&&&&&&&&&&&&added in first commit master
+  //why so many times the function is called.
 
 }
 
@@ -19,7 +19,7 @@ int fun2()
 int fun3()
 {
 
-  //Adding some
+  //Adding some to this function is not worried by main.
 
 }
 
