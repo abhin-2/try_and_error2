@@ -51,9 +51,9 @@ int main()
 
    }
 
-   //added some comments here.	
-   //somemore lines for commit 2
-   //see effects on 
-   //both branch	
+   //we are changing main function	
+   //comments
+   //check in 
+   //branch modify1	
 
 }
