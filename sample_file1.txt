@@ -1,7 +1,7 @@
 int fun1()
 {
 
-  //why so many times the function is called.
+  //take data from modify2
 
 }
 
@@ -13,12 +13,23 @@ int fun2()
 	
 
 
-	//this is addition....... from
+	
+
+
+
+//this is addition....... from the modify1
+
 }
 
 int fun3()
 {
-  //Adding why this area is canged....
+
+
+
+
+
+
+  //Adding why this area is canged....take data from branch modify2.
 
 }
 

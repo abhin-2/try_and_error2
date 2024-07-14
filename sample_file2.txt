@@ -1,0 +1,16 @@
+int sample_fun()
+{
+
+
+}
+
+int fun_auto_correct()
+{
+
+
+
+}
+
+/*
+	ADDED DOME COMMENTS
+*/
