@@ -1,7 +1,7 @@
 int fun1()
 {
 
-  //to do the task form main
+  //why so many times the function is called.
 
 }
 
@@ -13,12 +13,11 @@ int fun2()
 	
 
 
-	//this is addition....... from "modify" branch
+	//this is addition....... from
 }
 
 int fun3()
 {
-
   //Adding why this area is canged....
 
 }
