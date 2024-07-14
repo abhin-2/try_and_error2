@@ -7,7 +7,7 @@ int sample_fun()
 int fun_auto_correct()
 {
 
-
+	fun_auto
 
 }
 
