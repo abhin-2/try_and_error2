@@ -1,14 +1,14 @@
 int fun1()
 {
 
-  //to do the task form main
+  //to do the task form main&&&&&&&&&&&&&&added in first commit master
 
 }
 
 int fun2()
 {
 
-  //this is addition....... from master c1 agter creating branch.
+  //this is addition....... from master c1 agter creating branch.$$$$$$
 
 }
 
