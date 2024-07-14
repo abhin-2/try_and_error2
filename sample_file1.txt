@@ -1,7 +1,7 @@
 int fun1()
 {
 
-  //take the data from modify1
+  //take data from modify2
 
 }
 
@@ -23,7 +23,13 @@ int fun2()
 
 int fun3()
 {
-  //Adding why this area is canged....
+
+
+
+
+
+
+  //Adding why this area is canged....take data from branch modify2.
 
 }
 
