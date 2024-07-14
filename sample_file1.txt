@@ -1,7 +1,7 @@
 int fun1()
 {
 
-  //take data from modify2
+  //take data from master
 
 }
 
