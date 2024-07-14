@@ -1,1 +1,2 @@
 This is just example for try and error.
+This is addition from resoving branch.
