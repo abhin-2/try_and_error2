@@ -1,14 +1,14 @@
 int set_data()
 {
 
-   set_data
+   set_data...........
 
 }
 
 int create_new()
 {
  new
- //new addition
+ //new addition.....
 
 }
 
