@@ -1,2 +1,22 @@
-This is just example for try and error.
-This is addition from resoving branch.
+int fun1()
+{
+
+  //to do the task form main
+
+}
+
+int fun2()
+{
+
+  //to do the task form main
+
+}
+
+int main()
+{
+   fun1();
+   fun2();	
+
+
+
+}
