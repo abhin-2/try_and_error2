@@ -7,23 +7,16 @@ int fun1()
 
 int fun2()
 {
-
-
-  
-	
+	//this is addition....... from the modify1
 
 
 	
-
-
-
-//this is addition....... from the modify1
 
 }
 
 int fun3()
 {
-
+	
 
 
 
@@ -36,7 +29,8 @@ int fun3()
 int fun4()
 {
 
-  //Adding some extral lines
+  //Adding some extral lines this is fun4();
+
 
 }
 
