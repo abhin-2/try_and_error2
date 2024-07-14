@@ -18,8 +18,7 @@ int fun2()
 
 int fun3()
 {
-
-  //Adding some to this function is not worried by main.
+  //Adding why this area is canged....
 
 }
 
