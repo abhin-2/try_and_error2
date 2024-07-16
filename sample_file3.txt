@@ -1,8 +1,8 @@
 
 //Added c3 from feature
 //*c1 commit in master
-//I added it from local master.
-//new line from local master
+//change added fro local master.
+//change is needed in local master.
 //add *c4 commit in master
 //add *c5 commit in master
 //add *c6 commit in master
